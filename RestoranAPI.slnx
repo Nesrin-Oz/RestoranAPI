@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RestoranAPI/RestoranAPI.csproj" />
+  <Project Path="RestoranWinForm/RestoranWinForm.csproj" Id="3cef6ed4-7c7d-4521-9f4c-c8f5ec15fd35" />
+</Solution>
